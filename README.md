@@ -1,6 +1,6 @@
 # Gráfico de linhas paralelas com auxílio de k-means
 
-Bibliotecas necessárias
+Bibliotecas necessárias:
 
 -> Plotly
 
