@@ -9,3 +9,5 @@ Bibliotecas necessárias:
 -> Sklearn
 
 -> Pymoo
+
+O funcinamento é simples, após executar o algoritmo deve ser dado o tamanho da população, número de gereções e por fim quantos agrupamentos devem ser feitos.
