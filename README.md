@@ -1,4 +1,4 @@
-# Gráfico de linhas paralelas com auxílio de k-means
+# Gráfico de linhas paralelas com auxílio de k-means.
 
 Bibliotecas necessárias:
 
